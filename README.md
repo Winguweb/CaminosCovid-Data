@@ -10,6 +10,10 @@ También se suman datos con mayor segmentación territorial de fuentes provincia
 Los datos historicos provienen únicamente de fuentes oficiales. 
 Los datos de las villas y asentamientos de CABA provienen de relevamiento periódico realizado por ACIJ.
 
+## Visualizaciones
+* [Caminos de la Villa](https://www.covid-19.caminosdelavilla.org/)
+* [Tableau](https://public.tableau.com/profile/wingu)
+
 ### Descarga y uso de datos
 
 A través del siguiente link se podrá realizar la descarga del archivo CSV [__Descargar el CSV de datos (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?gid=0&single=true&output=csv) como también es posible [__acceder a la Hoja de cálculos online (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?output=xlsx)
