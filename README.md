@@ -13,3 +13,12 @@ Los datos de las villas y asentamientos de CABA provienen de relevamiento perió
 ### Descarga y uso de datos
 
 A través del siguiente link se podrá realizar la descarga del archivo CSV [__Descargar el CSV de datos (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?gid=0&single=true&output=csv) como también es posible [__acceder a la Hoja de cálculos online (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?output=xlsx)
+
+## Fuentes
+
+* [Parte diario Nacional](https://www.argentina.gob.ar/coronavirus/informe-diario)
+* [Parte diario CABA](https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires)
+
+## Nosotros
+
+Potenciamos el impacto de proyectos e iniciativas sociales, impulsando su transformación digital mediante la implementación de desarrollos tecnológicos innovadores para consolidar a la cultura digital y los desarrollos tecnológicos como agentes clave del cambio social en América Latina.
