@@ -34,3 +34,4 @@ También es posible acceder online [__acceder a la Hoja de cálculos online (lin
 ## Nosotros
 
 Potenciamos el impacto de proyectos e iniciativas sociales, impulsando su transformación digital mediante la implementación de desarrollos tecnológicos innovadores para consolidar a la cultura digital y los desarrollos tecnológicos como agentes clave del cambio social en América Latina.
+[__Wingu__](https://winguweb.org)
