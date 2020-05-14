@@ -21,7 +21,10 @@ Todas las visualizaciones de datos son a partir de una base de datos elaborada p
 
 ### Descarga y uso de datos
 
-A través del siguiente link se podrá realizar la descarga del archivo CSV [__Descargar el CSV de datos (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?gid=0&single=true&output=csv) como también es posible [__acceder a la Hoja de cálculos online (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?output=xlsx)
+A través del siguiente link se podrá realizar la descarga del archivo CSV [__Descargar el CSV de datos (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?gid=0&single=true&output=csv) como en formato xls [__Descargar el xls de datos (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pub?output=xlsx)
+
+También es posible acceder online [__acceder a la Hoja de cálculos online (link)__](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYqpWDOjA6Yo7Yg4DNcSAHXyPG0i7sQ-tmxjJA0mY-QURA3qnXQheV73_3Y101vV2xT1LE9EaI2GGU/pubhtml)
+
 
 ## Fuentes
 
